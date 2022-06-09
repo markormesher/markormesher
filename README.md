@@ -10,6 +10,7 @@ I'm Mark (he/him). I work as a customer-facing software engineer and tinker with
 |-|-|
 | 🐳 [borg-prometheus-collector](https://github.com/markormesher/borg-prometheus-collector) | Prometheus collector for Borg backup repositories |
 | 🐳 [iperf-prometheus-collector](https://github.com/markormesher/iperf-prometheus-collector) | Prometheus collector for monitoring network throughput via iperf3 |
+| 🐳 [speedtest-prometheus-collector](https://github.com/markormesher/speedtest-prometheus-collector) | Prometheus collector for Speedtest.net tests |
 | 🐳 [darwin-to-mqtt](https://github.com/markormesher/darwin-to-mqtt) | Util for publishing National Rail train departures to MQTT |
 | 🐳 [speedtest-to-mqtt](https://github.com/markormesher/speedtest-to-mqtt) | Util for tracking speedtest.net results and publishing them to MQTT |
 | 🐳 [cloudflare-dns-updater](https://github.com/markormesher/cloudflare-dns-updater) | Util for updating Cloudflare DNS records to point at your current IP |
