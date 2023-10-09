@@ -15,5 +15,5 @@ I'm Mark (he/him). I work as a customer-facing software engineer and tinker with
 | 🐳 [speedtest-to-mqtt](https://github.com/markormesher/speedtest-to-mqtt) | Util for tracking speedtest.net results and publishing them to MQTT |
 | 🐳 [cloudflare-dns-updater](https://github.com/markormesher/cloudflare-dns-updater) | Util for updating Cloudflare DNS records to point at your current IP |
 | 🌐 🐳 [atlas](https://github.com/markormesher/atlas) | Super-simple "where I've been in the world" tracker web app |
-| 🛠️ [@dragonlabs/eslint-config](https://github.com/markormesher/dragonlabs-eslint-config) | Opinionated and fairly minimal ESLint config |
+| 🛠️ [@markormesher/eslint-config](https://github.com/markormesher/eslint-config) | Opinionated default ESLint config |
 | 🚀 [Android FAB](https://github.com/markormesher/android-fab) | Android floating action button + speed-dial menu UI component |
